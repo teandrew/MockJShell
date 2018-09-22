@@ -1,0 +1,10 @@
+Class name: InputChecker
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Checks input to be a valid command
+	- valid meaning an existent command name followed by the required arguments
+	- NOT checking existence of a Directory or File
+- Stores history of all user-inputted commands
+Collaborators:
+All classes implementing Command (i.e Command classes: Exit, Cd, Pwd, etc.)

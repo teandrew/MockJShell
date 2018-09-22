@@ -1,0 +1,7 @@
+Class name: Pwd implements Command
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Prints the full path to the current working Directory
+Collaborators:
+FileManager

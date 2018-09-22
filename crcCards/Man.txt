@@ -1,0 +1,7 @@
+Class name: Man implements Command
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Prints documentation for specified Command
+Collaborators:
+All classes implementing Command (i.e Command classes: Exit, Cd, Pwd, etc.)

@@ -1,0 +1,9 @@
+Class name: FileManager
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Stores all Directory objects (along with their stored Files and Directories)
+- Keeps track of current working Directory
+- Also holds the Directory stack (for Pushd and Popd)
+Collaborators:
+Directory, File

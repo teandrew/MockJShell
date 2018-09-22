@@ -1,0 +1,7 @@
+Class name: Pushd implements Command
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Saves current working Directory by pushing onto Directory stack, and then changes current working Directory to specified Directory
+Collaborators:
+FileManager

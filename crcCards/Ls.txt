@@ -1,0 +1,10 @@
+Class name: Ls implements Command
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- If given a path (p)
+	- if p specifies a file, print the name of the file
+	- if p specifies a directory, print p, a colon,, then the contents of Directory p
+- Prints the contents of the current working Directory if not given a path
+Collaborators:
+FileManager, Directory, File

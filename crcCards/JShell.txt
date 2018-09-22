@@ -1,0 +1,8 @@
+Class name: JShell
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Prompt user for input
+- Displays messages concerning operations within JShell environment
+Collaborators:
+InputChecker

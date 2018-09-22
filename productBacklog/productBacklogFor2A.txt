@@ -1,0 +1,47 @@
+Exit:
+
+As a user, I can exit JShell once I'm done working.
+
+Make a Directory:
+
+As a user, I can make a new directory to work with.
+
+Change Directories:
+
+As a user, I can change the directory I'm currently in to a different directory.
+
+List What's in Current Directory:
+
+As a user, I can look at what is in my current directory.
+
+List Contents of a Directory:
+
+As a user, I can display the contents of a currently existing directory.
+
+View Path of Current Directory:
+
+As a user, I can view the path of my current working directory.
+
+Save Work:
+
+As a user, I can save the state of my current directory and change to a different directory.
+
+Reload last Save:
+
+As a user, I can go back to the most recent saved directory and replace it with the one I'm currently working on.
+
+History:
+
+As a user, I can view the commands that were previously executed.
+
+Contents:
+
+As a user, I can view the contents of a file.
+
+Add to file:
+
+As a user, I can add text to a text file.
+
+Check Commands:
+
+As a user, I can check what each command does.

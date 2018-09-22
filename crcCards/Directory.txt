@@ -1,0 +1,7 @@
+Class name: Directory
+Parent class (if any): File
+Subclasses (if any): N/A
+Responsibilities:
+- Stores File objects,including other Directories
+Collaborators:
+File, Directory

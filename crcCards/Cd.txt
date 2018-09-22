@@ -1,0 +1,7 @@
+Class name: Cd implements Command
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Changes current working directory to specified directory
+Collaborators:
+FileManager

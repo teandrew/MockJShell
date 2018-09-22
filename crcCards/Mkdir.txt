@@ -1,0 +1,7 @@
+Class name: Mkdir implements Command
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Creates a new Directory within specified Directory (or current working Directory if none specified)
+Collaborators:
+FileManager, Directory

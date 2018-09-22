@@ -1,0 +1,19 @@
+a) What did I work on last time?
+	- Brain stormed design ideas with team
+	- Came up with general idea as to how to complete the project.
+	- Worked on JShell:
+		- Began coding the basis of the command line interpreter.
+		- The shell now continually prompt the user for input.
+		- The shell stores the input, that will be used by the rest of the program.
+		- The shell also terminates once the Exit command is called.
+	- Created the echo class, and began basic implementation of it.
+
+b) What do I plan to work on now?
+	- Making any necessary changes to JShell to accommodate for any design changes that may have occurred.
+	- Complete the implementation of the echo command. 
+	- Help in any design processes that may need with my attention.
+	- Work on tasks in sprint 2.
+
+c) Am I blocked on anything?  
+	- Need "backbone" of the program completed (file systems, input checker).
+	- Proper implementation of the command classes to compliment each other.

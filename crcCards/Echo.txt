@@ -1,0 +1,13 @@
+Class name: Echo implements Command
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- If a File isn't specified, prints the string in JShell
+- If a File is specified:
+	- if using the ">" operator
+		- Overwrites the contents of the specified File, if it exists
+		- Creates a new File otherwise
+	- if using the ">>" operator
+		- Appends string to contents of specified File
+Collaborators:
+FileManager, File

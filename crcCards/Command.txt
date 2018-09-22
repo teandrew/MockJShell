@@ -1,0 +1,7 @@
+Interface name: Command
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Implemented in all command classes in order to make executing possible along all classes
+Collaborators:
+None

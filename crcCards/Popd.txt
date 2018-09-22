@@ -1,0 +1,7 @@
+Class name: Popd implements Command
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Pops the top Directory from the Directory stack, and makes it the current working Directory
+Collaborators:
+FileManager

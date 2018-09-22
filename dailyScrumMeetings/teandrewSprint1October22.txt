@@ -1,0 +1,12 @@
+What did I do last time?
+	- brainstormned design ideas with the team
+	- started inputChecker class
+	
+	
+What do I plan to do now?
+	- work on inputChecker class
+	- also work on ls command
+
+Am I blocked on anything?
+	- Figuring out how to properly check the correct arguments for each
+		command for inputChecker

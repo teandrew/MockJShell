@@ -1,0 +1,8 @@
+Class name: History implements Command
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Prints out a list of all user-inputted commands
+	- if also given a number, n, lists only the last n commands 
+Collaborators:
+InputChecker

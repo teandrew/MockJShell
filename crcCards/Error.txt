@@ -1,0 +1,7 @@
+Class name: Error
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Sends error message to display in JShell
+Collaborators:
+JShell

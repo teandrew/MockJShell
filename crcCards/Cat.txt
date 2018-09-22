@@ -1,0 +1,7 @@
+Class name: Cat implements Command
+Parent class (if any): N/A
+Subclasses (if any): N/A
+Responsibilities:
+- Displays the contents of specified file in JShell
+Collaborators:
+FileManager, File

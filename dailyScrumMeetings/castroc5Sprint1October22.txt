@@ -1,0 +1,13 @@
+What did I do last time?
+	- edited crcCards and Sprint backlog as per discussion in person
+    - finished Commands interface, Directory, File
+    - worked on Ls command
+
+What do I plan to do now?
+    - finish Ls command
+    - coordinate with other members to make sure project is on track
+    	- setup next inperson meeting
+
+Am I blocked on anything?
+    - need Man to be finished (or prototyped) in order to put documentation for Ls class
+

@@ -1,0 +1,6 @@
+Class name: File
+Parent class (if any): N/A
+Subclasses (if any): Directory
+Responsibilities:
+- Stores text
+Collaborators:
